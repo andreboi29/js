@@ -158,6 +158,7 @@ function iterateNumbers() {
             
             total += numbersArr[i];
             console.log(numbersArr[i]);
+            
 
             console.log(`Total: ${total}`)
         }
